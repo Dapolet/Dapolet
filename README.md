@@ -1,4 +1,4 @@
-# Hi 👋, I'm Dapolet
+# Sup , I'm Dapolet
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dapolet&label=Profile views&color=0e75b6&style=flat" alt="Dapolet" /> </p>
 
